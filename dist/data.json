@@ -1,0 +1,524 @@
+{
+  "cal": "1680",
+  "cal_unit": "Kcal",
+  "diets": [
+    {
+      "desayuno": {
+        "alimentos": [
+          {
+            "name": "Zanahoria picada cruda",
+            "group": "Verduras",
+            "quantity": "1",
+            "unit": "Taza",
+            "gr": "128"
+          },
+          {
+            "name": "Cereal de salvado de trigo",
+            "group": "Cereales S/G",
+            "quantity": "1/3",
+            "unit": "Taza",
+            "gr": "21"
+          },
+          {
+            "name": "Leche entera",
+            "group": "Leche Entera",
+            "quantity": "1",
+            "unit": "Taza",
+            "gr": "240"
+          },
+          {
+            "name": "Huevo estrellado",
+            "group": "AOA AAG",
+            "quantity": "2",
+            "unit": "Pieza",
+            "gr": "92"
+          },
+          {
+            "name": "Aceite de soya",
+            "group": "Aceites S/P",
+            "quantity": "1",
+            "unit": "Cucharadita",
+            "gr": "5"
+          },
+          {
+            "name": "Manzana",
+            "group": "Frutas",
+            "quantity": "1",
+            "unit": "Pieza",
+            "gr": "138"
+          },
+          {
+            "name": "Guayaba",
+            "group": "Frutas",
+            "quantity": "3",
+            "unit": "Pieza",
+            "gr": "135"
+          },
+          {
+            "name": "",
+            "group": "",
+            "quantity": "",
+            "unit": "",
+            "gr": ""
+          }
+        ]
+      },
+      "comida": {
+        "alimentos": [
+          {
+            "name": "Pimiento cocido",
+            "group": "Verduras",
+            "quantity": "1/2",
+            "unit": "Taza",
+            "gr": "68"
+          },
+          {
+            "name": "Cebolla blanca rebanada",
+            "group": "Verduras",
+            "quantity": "1/2",
+            "unit": "Taza",
+            "gr": "58"
+          },
+          {
+            "name": "Bistec de res",
+            "group": "AOA MBAG",
+            "quantity": "90",
+            "unit": "g",
+            "gr": "90"
+          },
+          {
+            "name": "Frijol promedio cocido",
+            "group": "Leguminosas",
+            "quantity": "1/4",
+            "unit": "Taza",
+            "gr": "43"
+          },
+          {
+            "name": "Aguacate Hass",
+            "group": "Aceites S/P",
+            "quantity": "1/3",
+            "unit": "Pieza",
+            "gr": "58"
+          },
+          {
+            "name": "Tortilla de maíz",
+            "group": "Cereales S/G",
+            "quantity": "2",
+            "unit": "Pieza",
+            "gr": "60"
+          },
+          {
+            "name": "Plátano",
+            "group": "Frutas",
+            "quantity": "1",
+            "unit": "Pieza",
+            "gr": "160"
+          }
+        ]
+      },
+      "cena": {
+        "alimentos": [
+          {
+            "name": "Zanahoria picada cruda",
+            "group": "Verduras",
+            "quantity": "1/2",
+            "unit": "Taza",
+            "gr": "64"
+          },
+          {
+            "name": "Pepino con cáscara rebanado",
+            "group": "Verduras",
+            "quantity": "1",
+            "unit": "Taza",
+            "gr": "104"
+          },
+          {
+            "name": "Queso Panela",
+            "group": "AOA BAG",
+            "quantity": "80",
+            "unit": "g",
+            "gr": "80"
+          },
+          {
+            "name": "Gelatina",
+            "group": "Azúcar S/G",
+            "quantity": "1/3",
+            "unit": "Taza",
+            "gr": "59"
+          },
+          {
+            "name": "Naranja",
+            "group": "Frutas",
+            "quantity": "2",
+            "unit": "Pieza",
+            "gr": "242"
+          },
+          {
+            "name": "Manzana",
+            "group": "Frutas",
+            "quantity": "1",
+            "unit": "Pieza",
+            "gr": "138"
+          },
+          {
+            "name": "Leche Entera",
+            "group": "Leche Entera",
+            "quantity": "1/2",
+            "unit": "Taza",
+            "gr": "120"
+          },
+          {
+            "name": "Avena en hojuelas",
+            "group": "Cereales S/G",
+            "quantity": "1/2",
+            "unit": "Taza",
+            "gr": "20"
+          }
+        ]
+      }
+    },
+    {
+      "desayuno": {
+        "alimentos": [
+          {
+            "name": "Nopal Crudo",
+            "group": "Verduras",
+            "quantity": "2",
+            "unit": "Pieza",
+            "gr": "140"
+          },
+          {
+            "name": "Cebollita de cambray",
+            "group": "Verduras",
+            "quantity": "3",
+            "unit": "Pieza",
+            "gr": "75"
+          },
+          {
+            "name": "Cecina de res",
+            "group": "AOA AAG",
+            "quantity": "100",
+            "unit": "g",
+            "gr": "100"
+          },
+          {
+            "name": "Cereal de salvado de trigo",
+            "group": "Cereales S/G",
+            "quantity": "1/3",
+            "unit": "Taza",
+            "gr": "21"
+          },
+          {
+            "name": "Leche Entera",
+            "group": "Leche Entera",
+            "quantity": "1",
+            "unit": "Taza",
+            "gr": "240"
+          },
+          {
+            "name": "Naranja",
+            "group": "Frutas",
+            "quantity": "2",
+            "unit": "Pieza",
+            "gr": "242"
+          },
+          {
+            "name": "Plátano",
+            "group": "Frutas",
+            "quantity": "1/2",
+            "unit": "Pieza",
+            "gr": "80"
+          }
+        ]
+      },
+      "comida": {
+        "alimentos": [
+          {
+            "name": "Espinaca cruda",
+            "group": "Verduras",
+            "quantity": "2",
+            "unit": "Taza",
+            "gr": "120"
+          },
+          {
+            "name": "Papa cocida",
+            "group": "Cereales S/G",
+            "quantity": "1/2",
+            "unit": "Pieza",
+            "gr": "68"
+          },
+          {
+            "name": "Pechuga de pollo",
+            "group": "AOA MBAG",
+            "quantity": "90",
+            "unit": "g",
+            "gr": "90"
+          },
+          {
+            "name": "Frijol promedio cocido",
+            "group": "Leguminosa",
+            "quantity": "1/4",
+            "unit": "Taza",
+            "gr": "43"
+          },
+          {
+            "name": "Lechuga",
+            "group": "Verduras",
+            "quantity": "1 1/2",
+            "unit": "Taza",
+            "gr": "70.5"
+          },
+          {
+            "name": "Pepino con cáscara",
+            "group": "Verduras",
+            "quantity": "1/2",
+            "unit": "Taza",
+            "gr": "52"
+          },
+          {
+            "name": "Espagueti cocido",
+            "group": "Cereales S/G",
+            "quantity": "1/3",
+            "unit": "Taza",
+            "gr": "46"
+          },
+          {
+            "name": "Uva Verde",
+            "group": "Frutas",
+            "quantity": "2",
+            "unit": "Taza",
+            "gr": "184"
+          },
+          {
+            "name": "Aderezo Vinagreta",
+            "group": "Aceites S/P",
+            "quantity": "4",
+            "unit": "Cucharadita",
+            "gr": "20"
+          }
+        ]
+      },
+      "cena": {
+        "alimentos": [
+          {
+            "name": "Apio Crudo",
+            "group": "Verduras",
+            "quantity": "1 1/2",
+            "unit": "Taza",
+            "gr": "152"
+          },
+          {
+            "name": "Zanahoria",
+            "group": "Verduras",
+            "quantity": "1/2",
+            "unit": "Taza",
+            "gr": "64"
+          },
+          {
+            "name": "Jamón de pavo",
+            "group": "AOA BAG",
+            "quantity": "2",
+            "unit": "Rebanada",
+            "gr": "42"
+          },
+          {
+            "name": "Queso Panela",
+            "group": "AOA BAG",
+            "quantity": "40",
+            "unit": "g",
+            "gr": "40"
+          },
+          {
+            "name": "Pan Integral",
+            "group": "Cereales S/G",
+            "quantity": "1",
+            "unit": "Rebanada",
+            "gr": "25"
+          },
+          {
+            "name": "Gelatina",
+            "group": "Azúcar S/G",
+            "quantity": "1/3",
+            "unit": "Taza",
+            "gr": "59"
+          },
+          {
+            "name": "Pera",
+            "group": "Frutas",
+            "quantity": "1",
+            "unit": "Pieza",
+            "gr": "190"
+          },
+          {
+            "name": "Leche Evaporada",
+            "group": "Leche Entera",
+            "quantity": "1/4",
+            "unit": "Taza",
+            "gr": "60"
+          }
+        ]
+      }
+    },
+    {
+      "desayuno": {
+        "alimentos": [
+          {
+            "name": "Huevo Estrellado",
+            "group": "AOA AAG",
+            "quantity": "2",
+            "unit": "Pieza",
+            "gr": "92"
+          },
+          {
+            "name": "Nopal Crudo",
+            "group": "Verduras",
+            "quantity": "2",
+            "unit": "Pieza",
+            "gr": "140"
+          },
+          {
+            "name": "Calabacita cruda",
+            "group": "Verduras",
+            "quantity": "1",
+            "unit": "Pieza",
+            "gr": "111"
+          },
+          {
+            "name": "Cereal de salvado de trigo",
+            "group": "Cereales S/G",
+            "quantity": "1/3",
+            "unit": "Taza",
+            "gr": "21"
+          },
+          {
+            "name": "Leche",
+            "group": "Leche Entera",
+            "quantity": "1",
+            "unit": "Taza",
+            "gr": "240"
+          },
+          {
+            "name": "Aceite de oliva",
+            "group": "Aceites S/P",
+            "quantity": "1",
+            "unit": "Cucharadita",
+            "gr": "5"
+          },
+          {
+            "name": "Manzana",
+            "group": "Frutas",
+            "quantity": "1",
+            "unit": "Pieza",
+            "gr": "138"
+          },
+          {
+            "name": "Naranja",
+            "group": "Frutas",
+            "quantity": "2",
+            "unit": "Pieza",
+            "gr": "242"
+          }
+        ]
+      },
+      "comida": {
+        "alimentos": [
+          {
+            "name": "Espinaca cruda",
+            "group": "Verduras",
+            "quantity": "2",
+            "unit": "Taza",
+            "gr": "120"
+          },
+          {
+            "name": "Jitomate",
+            "group": "Verduras",
+            "quantity": "120",
+            "unit": "g",
+            "gr": "120"
+          },
+          {
+            "name": "Espagueti crudo",
+            "group": "Cereales S/G",
+            "quantity": "40",
+            "unit": "g",
+            "gr": "40"
+          },
+          {
+            "name": "Chuleta ahumada",
+            "group": "AOA MBAG",
+            "quantity": "1 1/2",
+            "unit": "Pieza",
+            "gr": "120"
+          },
+          {
+            "name": "Frijol",
+            "group": "Leguminosas",
+            "quantity": "1/4",
+            "unit": "Taza",
+            "gr": "43"
+          },
+          {
+            "name": "Aceite de Oliva",
+            "group": "Aceites S/P",
+            "quantity": "1",
+            "unit": "Cucharadita",
+            "gr": "5"
+          },
+          {
+            "name": "Uva",
+            "group": "Frutas",
+            "quantity": "36",
+            "unit": "Pieza",
+            "gr": "252"
+          }
+        ]
+      },
+      "cena": {
+        "alimentos": [
+          {
+            "name": "Tortilla",
+            "group": "Cereales S/G",
+            "quantity": "1",
+            "unit": "Pieza",
+            "gr": "30"
+          },
+          {
+            "name": "Queso Panela",
+            "group": "AOA BAG",
+            "quantity": "80",
+            "unit": "g",
+            "gr": "80"
+          },
+          {
+            "name": "Zanahoria Cruda",
+            "group": "Verduras",
+            "quantity": "1",
+            "unit": "Taza",
+            "gr": "128"
+          },
+          {
+            "name": "Plátano",
+            "group": "Frutas",
+            "quantity": "1",
+            "unit": "Pieza",
+            "gr": "160"
+          },
+          {
+            "name": "Ate",
+            "group": "Azúcar S/G",
+            "quantity": "13",
+            "unit": "g",
+            "gr": "13"
+          },
+          {
+            "name": "Leche Evaporada",
+            "group": "Leche Entera",
+            "quantity": "1/4",
+            "unit": "Taza",
+            "gr": "60"
+          }
+        ]
+      }
+    }
+  ]
+}
